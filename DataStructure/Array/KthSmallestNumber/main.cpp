@@ -40,7 +40,7 @@ int findKthSmallestUsingMaxheap(vector<int> const &v, int k)
 	priority_queue<int, vector<int>> pq(v.begin(), v.begin() + k);
 
 	// do for remaining array elements
-	for (int i = k; i < v.size(); i++)
+        for (int i = k; i < static_cast<int>(v.size()); i++)
 	{
 		// if current element is less than the root of the heap
 		if (v[i] < pq.top())
