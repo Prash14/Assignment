@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.711150051/MINGW_HOME/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.711150051/MINGW_HOME/operation=replace
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.711150051/MINGW_HOME/value=
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.711150051/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.711150051/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.711150051/PATH/value=C\:\\Program Files\\MinGW64\\bin;${MSYS_HOME}\\bin;${MSYS_HOME}\\usr\\bin;C\:/Program Files/Java/jre1.8.0_211/bin/server;C\:/Program Files/Java/jre1.8.0_211/bin;C\:/Program Files/Java/jre1.8.0_211/lib/amd64;C\:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C\:\\Program Files (x86)\\Intel\\iCLS Client\\;C\:\\Program Files\\Intel\\iCLS Client\\;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C\:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C\:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C\:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C\:\\Program Files (x86)\\Intel\\OpenCL SDK\\2.0\\bin\\x86;C\:\\Program Files (x86)\\Intel\\OpenCL SDK\\2.0\\bin\\x64;C\:\\Program Files\\Microsoft SQL Server\\120\\Tools\\Binn\\;C\:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C\:\\Program Files\\Microsoft SQL Server\\110\\Tools\\Binn\\;C\:\\Windows\\system32
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.711150051/append=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.711150051/appendContributed=true
