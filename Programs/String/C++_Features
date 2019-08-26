@@ -1,0 +1,36 @@
+C++ 11 Features:
+-----------------
+
+https://isocpp.org/wiki/faq/cpp11-language
+auto
+decltype
+Range-for statement
+Initializer lists
+Uniform initialization syntax and semantics
+Rvalue references and move semantics
+Lambdas
+noexcept to prevent exception propagation
+constexpr
+nullptr – a null pointer literal
+Copying and rethrowing exceptions
+Inline namespaces
+User-defined literals
+======================================================
+
+C++ 14 Features
+--------------------------
+https://isocpp.org/wiki/faq/cpp14-language
+
+Binary literals
+Generalized return type deduction
+decltype(auto)
+Generalized lambda captures
+Generic lambdas
+Variable templates
+Extended constexpr
+The [ [deprecated] ] attribute
+Digit separators
+=======================================================
+
+C++ 17 Features
+---------------

@@ -16,7 +16,7 @@ static int const SUCCESS = 0;
 void reverseString(string & str,int stIdx,int edIdx)
 {
 	for (auto i=stIdx, j=edIdx-1; i<j; i++,j--)
-	     swap(str[i], str[j]);
+	     swap(str.at(i), str.at(j));
 }
 
 void withIterator(string &str)
@@ -40,7 +40,7 @@ void withIterator(string &str)
 
 }
 
-int main()
+int ReverseWord_main()
 {
 	string str;
 	cout<<"Enter string you want to push"<<endl;
