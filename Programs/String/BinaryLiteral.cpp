@@ -20,7 +20,7 @@
 #include"iostream"
 using namespace std;
 
-int main()
+int BinaryLiteralmain()
 {
 	auto a = 0b100'0001;
 	cout<<(char)a;

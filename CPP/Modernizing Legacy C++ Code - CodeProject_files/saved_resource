@@ -1,0 +1,21 @@
+
+var ftGUID_3943744="35426DEED56445";
+var ftConfID_3943744="0";
+var ftParams_3943744="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=www.codeproject.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.codeproject.com%2F&cachebuster=368735.8509242249";
+var ftKeyword_3943744="";
+var ftCustom_3943744="";
+var ftSection_3943744="";
+var ftSegment_3943744="w2b,wyg,um2";
+var ftSegmentList_3943744=[{s:'w2b'},{s:'wyg',t:41290000},{s:'um2'}];
+var ftRuleMatch_3943744="0";
+var ftTimestamp_3943744="1567160730";
+var ftImp3943744 = {};
+ftImp3943744.privacy = "x";
+ftImp3943744.guidAge = "717";
+ftImp3943744.impID = "7B647A9E-EDFF-416F-68D4-FB23EC9256E9";
+ftImp3943744.duid = "FT:35426DEED56445";
+
+ftImp3943744.ft_tpplid = "";
+ftImp3943744.ft_c = {};
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/394/3943744/2686889/js/j-3943744-2686889.js" id="ftscript_m3943744" name="ftscript_m3943744"></scr'+'ipt>');
