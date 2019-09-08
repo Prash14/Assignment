@@ -1,0 +1,3 @@
+D:/git/Programs/HelloWorld/Debug/CMakeFiles/cmakePractise.dir
+D:/git/Programs/HelloWorld/Debug/CMakeFiles/edit_cache.dir
+D:/git/Programs/HelloWorld/Debug/CMakeFiles/rebuild_cache.dir

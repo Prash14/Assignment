@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/prash/Documents/cmake/main.cpp
+iostream
+/home/prash/Documents/cmake/iostream
+vector
+/home/prash/Documents/cmake/vector
+array
+/home/prash/Documents/cmake/array
+string
+/home/prash/Documents/cmake/string
+

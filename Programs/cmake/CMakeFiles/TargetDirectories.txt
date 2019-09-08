@@ -1,0 +1,3 @@
+/home/prash/Documents/cmake/CMakeFiles/rebuild_cache.dir
+/home/prash/Documents/cmake/CMakeFiles/hello.dir
+/home/prash/Documents/cmake/CMakeFiles/edit_cache.dir
