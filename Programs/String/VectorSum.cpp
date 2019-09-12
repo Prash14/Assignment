@@ -19,7 +19,7 @@ int myProduct(int x, int y)
 	return x*y;
 }
 
-int main()
+int vector_main()
 {
 	auto sum = [](auto a,auto b){ return a+b;};
 	vector<int> vec = {1,2,3,4,5,6,7,8,9};
