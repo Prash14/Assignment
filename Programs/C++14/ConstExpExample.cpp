@@ -24,7 +24,7 @@ constexpr size_t arraySize(T (&)[N]) noexcept
  * throw : C++  98 style
  */
 
-int main()
+int ConstExp_main()
 {
 	int keyVals[] = { 1, 3, 7, 9, 11, 22, 35 };
 
@@ -42,6 +42,3 @@ int main()
 
 	return 0;
 }
-
-
-
